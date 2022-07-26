@@ -16,5 +16,10 @@ namespace RazoePagesUI.Pages
         {
 
         }
+
+        public void OnPost()
+        { 
+        
+        }
     }
 }
